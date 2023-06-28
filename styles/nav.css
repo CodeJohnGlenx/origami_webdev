@@ -1,0 +1,55 @@
+.nav {
+    background-color: var(--theme-color);
+    padding: 0.3rem var(--global-h-offset);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.nav_links {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    align-items: center;
+    gap: 3rem;
+}
+
+.nav_link {
+    display: inline;
+    font-weight: 600;
+}
+
+.ordinary_links {
+    opacity: 0.5;
+}
+
+.nav_link:hover {
+    opacity: 1;
+    cursor: default;
+}
+
+.logo a {
+    display: flex;
+    align-items: center;
+    font-weight: 700 !important;
+    opacity: 1;
+}
+
+.logo {
+    margin-right: auto;
+}
+
+
+.nav_img {
+    color: black;
+    height: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+

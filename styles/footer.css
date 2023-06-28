@@ -1,0 +1,36 @@
+.footer {
+    background-color: var(--theme-color);
+    padding: 1.5rem var(--global-h-offset);
+}
+
+.footer_logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.footer_logo img {
+    height: 3rem;
+}
+
+.footer_logo span {
+    font-weight: 700;
+}
+
+.footer_copyright {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    opacity: 0.5;
+}
+
+.footer_copyright .github a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.footer_copyright .github img {
+    height: 1.5rem;
+}
