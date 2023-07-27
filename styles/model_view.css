@@ -1,0 +1,84 @@
+main {
+    padding: var(--global-v-offset) var(--global-h-offset);
+}
+
+.video_main {
+    display: flex;
+    gap: 2rem;
+}
+
+.video_main .text {
+    width: 50%;
+}
+
+.video_main .text .description {
+    text-align: justify;
+    line-height: 1.8rem;
+}
+
+table {
+    margin-top: 1.5rem;
+}
+
+th,
+td {
+    text-align: center !important;
+}
+
+.video {
+    width: 50%;
+    aspect-ratio: 16 / 9;
+    border-radius: 0.5rem;
+}
+
+.form-carousel {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.form-carousel form {
+    display: block;
+    margin: auto 0;
+    width: 50vw;
+}
+
+
+.form-group {
+    margin: 1rem 0;
+}
+
+.form-group input[type=text],
+.form-group input[type=email] {
+    margin-top: 0.5rem;
+}
+
+.carousel .slide {
+    height: 10rem !important;
+}
+
+.carousel-img {
+    max-width: 50vw;
+    object-fit: cover;
+    aspect-ratio: 16 / 9;
+    border-radius: 0.5rem;
+}
+
+.carousel-caption {
+    color: black !important;
+}
+
+.carousel-caption p,
+.carousel-caption h5 {
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}

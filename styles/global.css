@@ -3,6 +3,9 @@
 :root {
     --theme-color: #F4D03F;
     --global-h-offset: 3rem;
+    --global-v-offset: 2rem;
+    --easy-color: #ABEBC6;
+    --medium-color: #F4D03F;
 }
 
 
