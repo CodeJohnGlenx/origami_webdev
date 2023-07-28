@@ -16,8 +16,8 @@
 
 .models_slider .slider .slide img {
     height: 100%;
+    border-radius: 0.5rem;
 }   
-
 
 
 .models_slider .slider .slide div {

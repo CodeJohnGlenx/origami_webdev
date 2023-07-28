@@ -1,227 +1,142 @@
 const carousel_data = [
     // 0
     {
-        imageId: "101zayJBLWQ2h4aeB7q7SFFrRz5Mi2eyS",
+        imageId: "1HgDweBD7jlA6jtvaldgRg97attqohzFx",
         description: "Somethin about description",
     },
     // 1
     {
-        imageId: "14oUmj3wUiXKeKAaiDwHCNlfJL8QT14nP",
+        imageId: "1YuC_3tsPPkLp_UZmcLdwkk-2ux4orXFI",
         description: "Somethin about description",
     },
     // 2
     {
-        imageId: "14E8mowmCtm8mRX-mgGy78cEb0F0WScnI",
+        imageId: "1xmIV4cIznhQ_s2ncmy8Fc2EUfmesprZ1",
         description: "Somethin about description",
     },
     // 3
     {
-        imageId: "1xvY1H_SotwMIXklTMVVOgW1ERvdiHPCy",
+        imageId: "17TyHXOuF2p5ePSJbffTpNHKPFBkDVo5D",
         description: "Somethin about description",
     },
     // 4
     {
-        imageId: "1RvcyncRPBGZgY55kSsXzGJ84eb4a_2yP",
+        imageId: "1FHdyVCSby_quJi3Y7yf3uHLmCx9lRAyo",
         description: "Somethin about description",
     },
     // 5
     {
-        imageId: "1MwC6qAC4KG-I3nSy3EtyTjUbJl1P1sp1",
+        imageId: "1fvFJcu0lyzx_mgeMABPd687R0VFxUqiG",
         description: "Somethin about description",
     },
     // 6
     {
-        imageId: "1xy5cxs77AT2MqGW-2EzUIyuI9JCmE1Qw",
+        imageId: "1Oj1AXn7lm2bUiTMWJF-D4ROTDDzrTlnU",
         description: "Somethin about description",
     },
     // 7
     {
-        imageId: "1QEEPzwCU8SVXJYCdDNQ3HjlaUiErxF7X",
+        imageId: "1y6Hg2ARraUOWOgoqhZ5-QdspS0A9GtUO",
         description: "Somethin about description",
     },
     // 8
     {
-        imageId: "1J25R7l71UJMo-MlcrI3RkyrEuhBHUnPM",
+        imageId: "1gZ-3siP5LFy3PcNvVfWz4CDRPSdQ24qU",
         description: "Somethin about description",
     },
     // 9
     {
-        imageId: "1H4LYW4DLMk1v0_shq10lBDwv3tAKtQEl",
+        imageId: "1aKpF4NupmUvayHFrEo_kq13cE8vmr1v5",
         description: "Somethin about description",
     },
     // 10
     {
-        imageId: "1t_6ZnmctBKx1pSQ9DFkev_B7iBXC5PAV",
+        imageId: "1fr5pPZDWfXMndyyEboTV5pWFhXTRDuP2",
         description: "Somethin about description",
     },
     // 11
     {
-        imageId: "1cxeSTcSdzyi7L3Lv2sy3mmkpeQN7lbbn",
+        imageId: "1TXFBa2j9P1u9sLTP6lwBJl3W_Gp3X-By",
         description: "Somethin about description",
     },
     // 12
     {
-        imageId: "1Fxz82pgYH-1dok6h28-BOK7rAdl1YFmW",
+        imageId: "1fBouizAgxD66N7JvhK-EhMYoPRjSXEL9",
         description: "Somethin about description",
     },
     // 13
     {
-        imageId: "1BKXILJ5k36L36dOurzB12qNEcoT3rGgJ",
+        imageId: "1MUbohHUb67ivavaBj7cN02h0yY6th8bm",
         description: "Somethin about description",
     },
     // 14
     {
-        imageId: "1y1axBQHf3UB8TgmUxJ47X1yPjIdw2FPc",
+        imageId: "1eThOrTYeF7ev9c3zQJ6OZ5H33bOQzOZJ",
         description: "Somethin about description",
     },
     // 15
     {
-        imageId: "1tbbia7S734virfC0ZgMsAM4KAjsJjGj2",
+        imageId: "1gybZmJzzrB6eMJEzci77Mf75mhAdR7N9",
         description: "Somethin about description",
     },
     // 16
     {
-        imageId: "128rMfS-EWAmZlqRAxY9VIVEq7TctvSfx",
+        imageId: "1lTEQKwxe-alwJ4QjFBrMNgCSKEXuI841",
         description: "Somethin about description",
     },
     // 17
     {
-        imageId: "1qumNtZBY_ANYGT8BVDJw7I0rg-nzs9hV",
+        imageId: "1KnstER64FpEJaEy78c1DtGLkswDrAAGI",
         description: "Somethin about description",
     },
     // 18
     {
-        imageId: "13EN_CYlFGsmavOc3HeJgoVwMdFj3Ua9h",
+        imageId: "1xeqXZWPAxyM8NPmXgqDn-tiNQ9Gggx8v",
         description: "Somethin about description",
     },
     // 19
     {
-        imageId: "1icrwjCVLUdTiXCOepryN0z86U29e7cvY",
+        imageId: "1QXFMN5KahLxh4cJgYeZTnZ_d5s5ba5KK",
         description: "Somethin about description",
     },
     // 20
     {
-        imageId: "1-hgJoocMtNNWQVYWEtvp7akC16tEQsNe",
+        imageId: "13Um4T0UPiaJLgPz9z01XuPsGjk3qQnr8",
         description: "Somethin about description",
     },
     // 21
     {
-        imageId: "1PpQXwiOuJuS27FKG7_qbpGlW0sPpI0A6",
+        imageId: "1VMYnLfArLi3KXJJEodweFpNJArmXJ-7h",
         description: "Somethin about description",
     },
     // 22
     {
-        imageId: "1UBQtSS9XppWd94N08BNxQRqeugBVxqtC",
+        imageId: "1wCSepu-5ck1XtLua8vRicUkLcPTSNCMg",
         description: "Somethin about description",
     },
     // 23
     {
-        imageId: "1Ojb2rFDnXX90G4TFU5Fk8xvuAvHXznoD",
+        imageId: "1XqppOPGA-aIAJKYBaYEjgMmimH2nWwaW",
         description: "Somethin about description",
     },
     // 24
     {
-        imageId: "1LEFdRkwJez5hX2NILDPr7jFXGQCghY3I",
+        imageId: "19fv0wxlT4IX2QTjNML0L01qtTnJTFwzm",
         description: "Somethin about description",
     },
     // 25
     {
-        imageId: "13okIyH9TpfhTF6nDgCJFNsfVgR52UvUc",
+        imageId: "14eTckChqvANiQFFquWfpMTMnDpaQcXjT",
         description: "Somethin about description",
     },
     // 26
     {
-        imageId: "1a-oEZbcEOlycMs_-R7d8ZKLjIF7DXFwz",
+        imageId: "1KKeXUZhKm1udP19r_mU4Hm6YFWBTeUDl",
         description: "Somethin about description",
     },
     // 27
     {
-        imageId: "1J73dCWPxB3kxTmwnwco4j0qRzwE0Jk98",
-        description: "Somethin about description",
-    },
-    // 28
-    {
-        imageId: "1fOU6iCappRoqmWKStZQPnelvmCbxEhIj",
-        description: "Somethin about description",
-    },
-    // 29
-    {
-        imageId: "1an6Rs2grGLZIqp36bQjEY59s-2cuSUrf",
-        description: "Somethin about description",
-    },
-    // 30
-    {
-        imageId: "1lUAvoVQL5tPRNuqi9Ly-JsEoIly2ljWI",
-        description: "Somethin about description",
-    },
-    // 31
-    {
-        imageId: "1N5C3GfeD1ShJWzhtMn-NDe82Gl4WfXfL",
-        description: "Somethin about description",
-    },
-    // 32
-    {
-        imageId: "1am_HzDxY9CzUDzA8tWnLMJGZX9Xk-ILj",
-        description: "Somethin about description",
-    },
-    // 33
-    {
-        imageId: "1lIJk9hHxsWMl5kKZqCJ6IGPL6axm2dnC",
-        description: "Somethin about description",
-    },
-    // 34
-    {
-        imageId: "1A4mfaQ3iYLYj7FeiMvVII5kuO2A-F_aW",
-        description: "Somethin about description",
-    },
-    // 35
-    {
-        imageId: "1R_ZxCnnu0iYlIB8w0SxwTKt3Ce4v9jME",
-        description: "Somethin about description",
-    },
-    // 36
-    {
-        imageId: "1aXlt7ECoaYv0HFJAd65Jy6fSfXaU_H4U",
-        description: "Somethin about description",
-    },
-    // 37
-    {
-        imageId: "1-wuldUHaag5J8N6Pj-Mbs3PoLg2RUK1w",
-        description: "Somethin about description",
-    },
-    // 38
-    {
-        imageId: "1tsav6dXALnV5PNrBuG5JQVhCZI1U-gLu",
-        description: "Somethin about description",
-    },
-    // 39
-    {
-        imageId: "1FI52F_bbBIFLdilect0RLM-DhW82LPQ1",
-        description: "Somethin about description",
-    },
-    // 40
-    {
-        imageId: "11KuFDuXqQbvTNQLfT7f3h_a2PLW56m-j",
-        description: "Somethin about description",
-    },
-    // 41
-    {
-        imageId: "1QRRk_yB1chrqB74hEuiFqnrDjKzc-F9k",
-        description: "Somethin about description",
-    },
-    // 42
-    {
-        imageId: "12gDuGn9e5aGuG884icuC-9jIh783M1jL",
-        description: "Somethin about description",
-    },
-    // 43
-    {
-        imageId: "16pPQV5C64m2azuij52NBRTqXVSVwtE_O",
-        description: "Somethin about description",
-    },
-    // 44
-    {
-        imageId: "1js4a-1C68K2zp7-xSyZcTumPu6bAQj27",
+        imageId: "1vU73NvF9Qr05C5sfMRsoqrmxRHoLawel",
         description: "Somethin about description",
     },
 ]
@@ -281,6 +196,7 @@ window.onload = () => {
 
     console.log(carousel);
 }
+
 
 // add event lister on submit 
 const form = document.querySelector("form");
