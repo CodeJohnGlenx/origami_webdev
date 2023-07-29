@@ -2,142 +2,82 @@ const carousel_data = [
     // 0
     {
         imageId: "1HgDweBD7jlA6jtvaldgRg97attqohzFx",
-        description: "Somethin about description",
-    },
-    // 1
-    {
-        imageId: "1YuC_3tsPPkLp_UZmcLdwkk-2ux4orXFI",
-        description: "Somethin about description",
+        description: "Prepare a square paper.",
     },
     // 2
     {
         imageId: "1xmIV4cIznhQ_s2ncmy8Fc2EUfmesprZ1",
-        description: "Somethin about description",
-    },
-    // 3
-    {
-        imageId: "17TyHXOuF2p5ePSJbffTpNHKPFBkDVo5D",
-        description: "Somethin about description",
+        description: "Fold the paper in half two times.",
     },
     // 4
     {
         imageId: "1FHdyVCSby_quJi3Y7yf3uHLmCx9lRAyo",
-        description: "Somethin about description",
+        description: "Fold down the upper rectangle unto the middle section at the back of the paper.",
     },
     // 5
     {
         imageId: "1fvFJcu0lyzx_mgeMABPd687R0VFxUqiG",
-        description: "Somethin about description",
+        description: "Make sure that the folded rectangle was in the upper side of the origami. Fold both the upper left and upper right edge diagonally, they should align vertically.",
     },
     // 6
     {
         imageId: "1Oj1AXn7lm2bUiTMWJF-D4ROTDDzrTlnU",
-        description: "Somethin about description",
-    },
-    // 7
-    {
-        imageId: "1y6Hg2ARraUOWOgoqhZ5-QdspS0A9GtUO",
-        description: "Somethin about description",
+        description: "Flip the paper to see the other side of the paper.",
     },
     // 8
     {
         imageId: "1gZ-3siP5LFy3PcNvVfWz4CDRPSdQ24qU",
-        description: "Somethin about description",
-    },
-    // 9
-    {
-        imageId: "1aKpF4NupmUvayHFrEo_kq13cE8vmr1v5",
-        description: "Somethin about description",
+        description: "Fold the left and right edges to meet at the middle.",
     },
     // 10
     {
         imageId: "1fr5pPZDWfXMndyyEboTV5pWFhXTRDuP2",
-        description: "Somethin about description",
-    },
-    // 11
-    {
-        imageId: "1TXFBa2j9P1u9sLTP6lwBJl3W_Gp3X-By",
-        description: "Somethin about description",
-    },
-    // 12
-    {
-        imageId: "1fBouizAgxD66N7JvhK-EhMYoPRjSXEL9",
-        description: "Somethin about description",
+        description: "Fold the lower left and lower right to meet and align vertically.",
     },
     // 13
     {
         imageId: "1MUbohHUb67ivavaBj7cN02h0yY6th8bm",
-        description: "Somethin about description",
-    },
-    // 14
-    {
-        imageId: "1eThOrTYeF7ev9c3zQJ6OZ5H33bOQzOZJ",
-        description: "Somethin about description",
+        description: "Rotate the paper from top to left. Then bring the right side of the origami to the left side.",
     },
     // 15
     {
         imageId: "1gybZmJzzrB6eMJEzci77Mf75mhAdR7N9",
-        description: "Somethin about description",
+        description: "Insert the right side inside the left pocket.",
     },
     // 16
     {
         imageId: "1lTEQKwxe-alwJ4QjFBrMNgCSKEXuI841",
-        description: "Somethin about description",
+        description: "Flatten the pocket.",
     },
     // 17
     {
         imageId: "1KnstER64FpEJaEy78c1DtGLkswDrAAGI",
-        description: "Somethin about description",
-    },
-    // 18
-    {
-        imageId: "1xeqXZWPAxyM8NPmXgqDn-tiNQ9Gggx8v",
-        description: "Somethin about description",
-    },
-    // 19
-    {
-        imageId: "1QXFMN5KahLxh4cJgYeZTnZ_d5s5ba5KK",
-        description: "Somethin about description",
+        description: "Flatten the right side of the paper.",
     },
     // 20
     {
         imageId: "13Um4T0UPiaJLgPz9z01XuPsGjk3qQnr8",
-        description: "Somethin about description",
-    },
-    // 21
-    {
-        imageId: "1VMYnLfArLi3KXJJEodweFpNJArmXJ-7h",
-        description: "Somethin about description",
-    },
-    // 22
-    {
-        imageId: "1wCSepu-5ck1XtLua8vRicUkLcPTSNCMg",
-        description: "Somethin about description",
+        description: "Fold the upper right edge diagonally. Do this with the lower right edge of the paper.",
     },
     // 23
     {
         imageId: "1XqppOPGA-aIAJKYBaYEjgMmimH2nWwaW",
-        description: "Somethin about description",
-    },
-    // 24
-    {
-        imageId: "19fv0wxlT4IX2QTjNML0L01qtTnJTFwzm",
-        description: "Somethin about description",
+        description: "Fold the Upper right and lower right to the left a little.",
     },
     // 25
     {
         imageId: "14eTckChqvANiQFFquWfpMTMnDpaQcXjT",
-        description: "Somethin about description",
+        description: "This is the completed origami heart.",
     },
     // 26
     {
         imageId: "1KKeXUZhKm1udP19r_mU4Hm6YFWBTeUDl",
-        description: "Somethin about description",
+        description: "",
     },
     // 27
     {
         imageId: "1vU73NvF9Qr05C5sfMRsoqrmxRHoLawel",
-        description: "Somethin about description",
+        description: "",
     },
 ]
 
@@ -170,7 +110,7 @@ window.onload = () => {
         carouselH5.textContent = `Fold ${itemNo + 1}`;
 
         const carouselP = document.createElement('p');
-        carouselP.textContent = `${data.description} ${itemNo + 1}`
+        carouselP.textContent = `${data.description}`
 
         carouselCaption.appendChild(carouselH5)
         carouselCaption.appendChild(carouselP);
@@ -205,8 +145,8 @@ form.addEventListener('submit', downloadPdf);
 // download origami pdf 
 function downloadPdf(event) {
     const a = document.createElement('a');
-    a.setAttribute('href', "files/origami_notes.pdf")
-    a.setAttribute('download', "origami_notes.pdf")
+    a.setAttribute('href', "files/origami_heart.pdf")
+    a.setAttribute('download', "origami_heart.pdf")
     a.click();
     event.preventDefault();
 }
